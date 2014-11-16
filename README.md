@@ -16,7 +16,7 @@ meteor add khamoud:battlenet-api
 `Battlenet` is a global object and can be called with:
 
 ```javascript
-var battlenet = Battlenet;
+var bnet = Battlenet;
 ```
 
 And then access the API methods to request data:
