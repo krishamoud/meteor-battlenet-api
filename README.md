@@ -6,12 +6,10 @@ A Meteor wrapper for the Battle.net API
 
 Add `khamoud:battlenet-api` to your application's `.meteor/packages` file
 
-```
 
 Alternatively:
 ```
 meteor add khamoud:battlenet-api
-```
 
 # How to use
 
