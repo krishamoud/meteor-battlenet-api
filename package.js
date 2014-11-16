@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'khamoud:battle-net',
+  name: 'khamoud:battlenet-api',
   summary: 'Battlenet API for meteor',
   version: '1.0.0',
   git: ' /* Fill me in! */ '
