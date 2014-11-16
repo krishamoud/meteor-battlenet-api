@@ -24,14 +24,6 @@ And then access the API methods to request data:
 bnet.wow.character.profile(obj, callback);
 ```
 
-## Battle.net API Key
-
-Your private Battle.net API key is input with the `BATTLENET_API_KEY` environment variable. This must be present in order to get a valid Battle.net API response. There are several ways to set this variable but the easiest is to run your node server with the variable from the command line.
-
-```
-$ sudo BATTLENET_API_KEY=[your_api_key] node server.js
-```
-
 # Documentation
 
 Each API method receives a parameters object for the request, and a callback function to execute once the request has completed. The available request parameters are explained for each method below.
