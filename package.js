@@ -2,7 +2,7 @@ Package.describe({
   name: 'khamoud:battlenet-api',
   summary: 'Battlenet API for meteor',
   version: '1.0.0',
-  git: ' /* Fill me in! */ '
+  git: 'https://github.com/krishamoud/meteor-battlenet-api'
 });
 
 Npm.depends({'battlenet-api': '0.4.7'});
