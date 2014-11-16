@@ -10,7 +10,7 @@ Npm.depends({'battlenet-api': '0.4.7'});
 Package.onUse(function(api) {
   api.versionsFrom('1.0');
   api.addFiles('khamoud:battle-net.js', 'server');
-  api.export('bnet');
+  api.export('Battlenet');
 });
 
 Package.onTest(function(api) {

@@ -1,2 +1,2 @@
 // Write your package code here!
-bnet = Npm.require('battlenet-api');
+Battlenet = Npm.require('battlenet-api');
